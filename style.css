@@ -1,0 +1,26 @@
+body{
+    font-family: 'Libre Baskerville', serif;
+}
+h1{
+    font-size: 50px;
+}
+.p2{
+    color: rgb(2, 1, 1);
+    font-size: 25px;  
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 3%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.p1{
+    color: black;
+    font-size: 15px;
+}
+.name-color {
+   color: rgb(0, 172, 143);
+}
