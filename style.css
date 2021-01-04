@@ -1,5 +1,6 @@
 body{
     font-family: 'Libre Baskerville', serif;
+    margin: 0px;
 }
 h1{
     font-size: 50px;
@@ -17,10 +18,35 @@ h1{
 .half-width img{
     width: 100%;
 }
-.p1{
-    color: black;
-    font-size: 15px;
+section{
+    height: 500px;
+    padding-bottom: 100px;
 }
+.p4{
+    color: dimgray;
+}
+.pic2{
+    border-image-width: 50px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,rgb(251, 40, 2));
+    padding: 7px 10px;
+    border-radius: 5px;
+    color: ivory;
+    font-weight: 500;
+    font-size: 12px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
 .name-color {
    color: rgb(0, 172, 143);
+}
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
